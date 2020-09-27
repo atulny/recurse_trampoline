@@ -1,5 +1,6 @@
 # recurse_trampoline
 # Example
+
 def factorial(n):
 
      "Get factorial of n (trampolined)."
