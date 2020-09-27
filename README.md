@@ -1,7 +1,8 @@
 # recurse_trampoline
 # Example
 
-def factorial(n):
+ def factorial(n):
+
      "Get factorial of n (trampolined)."
      
      if n <= 1:
