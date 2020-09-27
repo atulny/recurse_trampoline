@@ -2,7 +2,6 @@
 # Example
 
 def factorial(n):
-
      "Get factorial of n (trampolined)."
      
      if n <= 1:
